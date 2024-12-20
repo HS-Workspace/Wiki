@@ -27,6 +27,7 @@ You can purchase it on those marketplaces. But we strongly recommend you to purc
 | **ShopGUIPlus** | **[Buy Now](https://www.spigotmc.org/resources/shopgui-1-8-1-20.6515/)** | Premium | `Optional` |
 | **ItemsAdder** | **[Buy Now](https://www.spigotmc.org/resources/73355/)** | Premium | `Optional` |
 | **Oraxen** | **[Buy Now](https://www.spigotmc.org/resources/72448/)** | Premium | `Optional` |
+| **Nexo** | **[Buy Now](https://polymart.org/resource/nexo.6901)** | Premium | `Optional` |
 | **UltraEconomy** | **[Buy Now](https://www.spigotmc.org/resources/ultra-economy.83374/)** | Premium | `Optional` |
 | **UltimateStacker** | **[Download Now](https://craftaro.com/marketplace/product/ultimatestacker.16)** | Premium | `Optional` |
 | **Vault** | **[Download Now](https://www.spigotmc.org/resources/vault.34315/)** | Free | `Optional` |
