@@ -9,7 +9,6 @@ title = "Hyronic Friends"
 ### Now available on marketplaces
 
 *   **[SpigotMC](https://www.spigotmc.org/resources/111700/)**
-*   **[BuiltByBit (MC-Market)](https://builtbybit.com/resources/30517/)**
 *   **[Polymart](https://polymart.org/resource/4539)**
 
 ### Features

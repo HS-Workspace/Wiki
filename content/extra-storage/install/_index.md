@@ -8,7 +8,6 @@ weight = 1
 This plugin is now available on these marketplaces as a premium plugin:
 
 *   **[SpigotMC](https://www.spigotmc.org/resources/90379/)**
-*   **[BuiltByBit (MC-Market)](https://builtbybit.com/resources/19319/)**
 *   **[Polymart](https://polymart.org/resource/860/)**
 
 You can purchase it on those marketplaces. But we strongly recommend you to purchase on **BuiltByBit**, because it supports you more payment methods.
@@ -16,8 +15,8 @@ You can purchase it on those marketplaces. But we strongly recommend you to purc
 ## Prerequisites
 
 *   Java version: **16 or newer**
-*   Server software: **SpigotMC, PaperMC and PurpurMC**
-*   Server versions: **1.16 to 1.20.1**
+*   Server software: **SpigotMC, PaperMC and its forks**
+*   Server versions: **1.16 or newer**
 
 ## Soft-Dependencies
 
