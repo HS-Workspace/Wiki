@@ -14,7 +14,7 @@ You can purchase it on those marketplaces. But we strongly recommend you to purc
 
 ## Prerequisites
 
-*   Java version: **16 or newer**
+*   Java version: **8 or newer**
 *   Server software: **SpigotMC, PaperMC and its forks**
 *   Server versions: **1.16 or newer**
 
