@@ -2,7 +2,7 @@
 title = "Extra Storage"
 +++
 
-![Banner](banner.png)
+![Banner](/assets/extra-storage/card.png)
 
 Mine more efficiently! Let your players store their mined/picked items! Includes many unique and special features such as filtering, sorting or selling!
 
