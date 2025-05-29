@@ -28,3 +28,10 @@ weight = 2
 | /exstorage withdraw %material-key% \[amount\] | `exstorage.command.player.withdraw` | Withdraw items without opening the GUI. |
 | /esadmin whitelist | `exstorage.command.admin.whitelist` | Modify the "Whitelist" section in config.yml in-game. Apply changes immediately when adding/removing an item. |
 | /esadmin reload | `exstorage.command.admin.reload` | Reload the configurations. |
+
+## Additional Permission
+
+| Permission | Description |
+| --- | --- |
+| `exstorage.storage.unlimited` | Allow player to have unlimited storage |
+| `exstorage.storage.pickup` | Allow player to send pickup items to their storage |
