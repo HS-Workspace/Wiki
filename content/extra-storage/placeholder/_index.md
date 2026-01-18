@@ -13,3 +13,4 @@ Use placeholders to aid in many other features. These placeholders require **[Pl
 | `%exstorage_used_percent[_formatted]%` | Same with `used_space`, but in percentage. |
 | `%exstorage_free_percent[_formatted]%` | Same with `free_space`, but in percentage. |
 | `%exstorage_quantity[_formatted]_<material-key>%` | Displays the quantity of the item, -1 if it is not exist. |
+| `%exstorage_status[_formatted]%` | Displays the status of the storage. |
