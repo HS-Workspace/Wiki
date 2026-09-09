@@ -7,12 +7,15 @@
 | /exstorage help | `exstorage.command.player.help` | Players can see help page. |
 | /exstorage \[player\] | `exstorage.command.player.open` | Players can open their storage, or open another player's storage. |
 | /exstorage toggle | `exstorage.command.player.toggle` | Players can turn on / off the feature if they don't want to use. |
-| /exstorage filter | `exstorage.command.player.filter` | Players can open their filter. |
+| /exstorage filter \[%material-key%\] | `exstorage.command.player.filter` | Players can open their filter, or toggle the filter for a specific item. |
 | /exstorage partner \[add/remove/clear\]\[player\] | `exstorage.command.player.partner` | Players can use the partner feature. Or open a GUI to see who was their partners. |
 | /exstorage sell \[%material-key% \[amount\]\] | `exstorage.command.player.sell` | Players can open the market to sell items that contain in their storage. |
 | /exstorage withdraw %material-key% \[amount\] | `exstorage.command.player.withdraw` | Withdraw items without opening the GUI. |
+| /exstorage deposit %material-key% \[amount\] | `exstorage.command.player.deposit` | Players can deposit items from their inventory into their storage. |
 
 ## These commands for administrator only:
+> [!NOTE]
+> These commands can also be executed from the console.
 
 | Admin Command | Permission | Description |
 | --- | --- | --- |
