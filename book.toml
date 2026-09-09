@@ -1,0 +1,31 @@
+[book]
+title = "HS-Workspace"
+authors = ["HSGamer"]
+description = "The Documentation for some projects"
+src = "."
+language = "en"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/HS-Workspace/Wiki"
+edit-url-template = "https://github.com/HS-Workspace/Wiki/edit/main/{path}"
+site-url = "/Wiki/"
+
+[output.html.redirect]
+"/hyronic-friends.html" = "hyronic-friends/index.html"
+"/hyronic-friends/install.html" = "install/index.html"
+"/hyronic-friends/bungee.html" = "bungee/index.html"
+"/hyronic-friends/command.html" = "command/index.html"
+"/hyronic-friends/placeholder.html" = "placeholder/index.html"
+"/hyronic-friends/developer.html" = "developer/index.html"
+"/hyronic-friends/developer/event.html" = "event/index.html"
+"/extra-storage.html" = "extra-storage/index.html"
+"/extra-storage/install.html" = "install/index.html"
+"/extra-storage/command.html" = "command/index.html"
+"/extra-storage/placeholder.html" = "placeholder/index.html"
+"/extra-storage/custom-item.html" = "custom-item/index.html"

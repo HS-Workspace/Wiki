@@ -1,0 +1,15 @@
+# Summary
+
+- [HS-Workspace](README.md)
+- [Extra Storage](extra-storage/README.md)
+  - [Installation Guide](extra-storage/install/README.md)
+  - [Commands & Permissions](extra-storage/command/README.md)
+  - [Placeholders](extra-storage/placeholder/README.md)
+  - [Custom Item Support](extra-storage/custom-item/README.md)
+- [Hyronic Friends](hyronic-friends/README.md)
+  - [Installation Guide](hyronic-friends/install/README.md)
+  - [BungeeCord/Velocity](hyronic-friends/bungee/README.md)
+  - [Commands & Permissions](hyronic-friends/command/README.md)
+  - [Placeholders](hyronic-friends/placeholder/README.md)
+  - [Developer APIs](hyronic-friends/developer/README.md)
+    - [Events](hyronic-friends/developer/event/README.md)
