@@ -10,11 +10,6 @@ This plugin is now available on these marketplaces as a premium plugin:
 
 You can purchase it on those marketplaces. But we strongly recommend you to purchase on **BuiltByBit**, because it supports you more payment methods.
 
-### Prerequisites
-
-*   Java version: **8 or newer**
-*   Server software: **SpigotMC, PaperMC and PurpurMC**
-
 ### Soft-Dependencies
 
 | Name | Open Source | Paid | Required |
