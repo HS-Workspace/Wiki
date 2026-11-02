@@ -7,17 +7,13 @@ This plugin is now available on these marketplaces as a premium plugin:
 *   **[SpigotMC](https://www.spigotmc.org/resources/90379/)**
 *   **[Polymart](https://polymart.org/resource/860/)**
 
-You can purchase it on those marketplaces. But we strongly recommend you to purchase on **BuiltByBit**, because it supports you more payment methods.
+You can purchase it on those marketplaces.
 
 ## Soft-Dependencies
 
 | Name | Link | Price | Required |
 | --- | --- | --- | --- |
-| **HeadDatabase** | **[Buy Now](https://www.spigotmc.org/resources/head-database.14280/)** | Premium | `Optional` |
 | **ShopGUIPlus** | **[Buy Now](https://www.spigotmc.org/resources/shopgui-1-8-1-20.6515/)** | Premium | `Optional` |
-| **ItemsAdder** | **[Buy Now](https://www.spigotmc.org/resources/73355/)** | Premium | `Optional` |
-| **Oraxen** | **[Buy Now](https://www.spigotmc.org/resources/72448/)** | Premium | `Optional` |
-| **Nexo** | **[Buy Now](https://polymart.org/resource/nexo.6901)** | Premium | `Optional` |
 | **UltraEconomy** | **[Buy Now](https://www.spigotmc.org/resources/ultra-economy.83374/)** | Premium | `Optional` |
 | **UltimateStacker** | **[Download Now](https://craftaro.com/marketplace/product/ultimatestacker.16)** | Premium | `Optional` |
 | **Vault** | **[Download Now](https://www.spigotmc.org/resources/vault.34315/)** | Free | `Optional` |

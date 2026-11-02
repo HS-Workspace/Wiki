@@ -11,5 +11,6 @@
   - [BungeeCord/Velocity](hyronic-friends/bungee/README.md)
   - [Commands & Permissions](hyronic-friends/command/README.md)
   - [Placeholders](hyronic-friends/placeholder/README.md)
+  - [Custom Item Support](hyronic-friends/custom-item/README.md)
   - [Developer APIs](hyronic-friends/developer/README.md)
     - [Events](hyronic-friends/developer/event/README.md)

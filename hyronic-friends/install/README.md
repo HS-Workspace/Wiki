@@ -5,18 +5,14 @@
 This plugin is now available on these marketplaces as a premium plugin:
 
 *   **[SpigotMC](https://www.spigotmc.org/resources/111700/)**
-*   **[BuiltByBit (MC-Market)](https://builtbybit.com/resources/30517/)**
 *   **[Polymart](https://polymart.org/resource/4539)**
 
-You can purchase it on those marketplaces. But we strongly recommend you to purchase on **BuiltByBit**, because it supports you more payment methods.
+You can purchase it on those marketplaces.
 
 ### Soft-Dependencies
 
 | Name | Open Source | Paid | Required |
 | --- | --- | --- | --- |
-| **[HeadDatabase](https://www.spigotmc.org/resources/14280/)** | No  | Premium | No  |
-| **[Oraxen](https://www.spigotmc.org/resources/72448/)** | Yes | Premium | No  |
-| **[ItemsAdder](https://www.spigotmc.org/resources/73355/)** | No  | Premium | No  |
 | **[PlaceholderAPI](https://www.spigotmc.org/resources/6245/)** | Yes | Free | No  |
 | **HyronicFriends-BungeeCord** | No  | Free | No  |
 | **HyronicFriends-Velocity** `TODO` | No  | Free | No  |

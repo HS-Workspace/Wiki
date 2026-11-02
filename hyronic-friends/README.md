@@ -15,7 +15,7 @@
 *   Support **MySQL** and **SQLite** database.
 *   Support **BungeeCord/Velocity** for cross-server (see [how to setup](./bungee/)).
 *   Support custom texture for GUI.
-*   Support **[Oraxen](https://www.spigotmc.org/resources/72448/)** and **[ItemsAdder](https://www.spigotmc.org/resources/73355/)**.
+*   Support multiple item plugins via [UniItem](https://github.com/ProjectUnified/UniItem)
 *   Support multiple languages. You can translate it into your native language.
 *   Add (or unfriend) a player.
 *   Send an email to your friend. You can also attach your item before sending.
